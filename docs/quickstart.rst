@@ -11,7 +11,11 @@ Or:
 
 .. include:: download/pip.rst
 
-2. Run ``tutor local quickstart``
+Make sure that you are running the docker engine with 
+'systemctl docker start' 
+and it might be needed that you are logged in with root with you su command  
+
+2. Run ``tutor local quickstart``    
 3. You're done!
 
 **That's it?**
